@@ -1,0 +1,6 @@
+  "name": "SHIBEGOLD",
+  "symbol": "$SHIBEGOLD",
+  "description": "SHIBEGOLD to the moon—next big Shiba gold meme on Solana!",
+  "image": "https://raw.githubusercontent.com/Hoodlums453/shibegolds-metadata/refs/heads/main/shebigold_jpeg.jpg",
+  "twitter": "https://x.com/yourshibegold"
+}
